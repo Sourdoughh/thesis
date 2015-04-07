@@ -105,5 +105,5 @@ angular.module('starter.factories', [])
     console.log(goalBuilder.goal);
   };
 
-  return goalBuilde
+  return goalBuilder;
 });
